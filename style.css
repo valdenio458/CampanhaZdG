@@ -1,2 +1,5 @@
 table, th, td {border: 1px solid #000;}
     th, td {padding: 7px;}
+#princ{
+    background-color: lightgrey;
+}
